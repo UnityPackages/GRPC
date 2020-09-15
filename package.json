@@ -1,0 +1,8 @@
+{
+	"name": "com.grpc.grpc",
+	"displayName":"GRPC",
+	"version": "2.33.0-preview",
+	"unity": "2019.4",
+	"description": "gRPC is a modern, open source, high-performance remote procedure call (RPC) framework that can run anywhere. gRPC enables client and server applications to communicate transparently, and simplifies the building of connected systems.",
+	"dependencies": {}
+}
